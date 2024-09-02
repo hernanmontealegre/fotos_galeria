@@ -1,0 +1,7 @@
+{
+  "name": "appFotos2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
