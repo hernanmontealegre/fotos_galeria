@@ -1,0 +1,27 @@
+ion-header {
+    --background: #f7f7f7; /* Color de fondo suave para el encabezado */
+    --color: #333; /* Color de texto */
+  }
+  
+  ion-toolbar {
+    --background: #e0e0e0; /* Color de fondo suave para la barra de herramientas */
+  }
+  
+  ion-title {
+    color: #333; /* Color del título */
+  }
+  
+  ion-content {
+    --background: #ffffff; /* Color de fondo del contenido */
+  }
+  
+  ion-col {
+    padding: 10px;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 8px; /* Bordes redondeados para las imágenes */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave para las imágenes */
+  }
+  

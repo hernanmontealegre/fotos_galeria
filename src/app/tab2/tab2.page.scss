@@ -1,0 +1,40 @@
+ion-header {
+    --background: #f0f4f8; /* Color de fondo suave para el encabezado */
+    --color: #444; /* Color de texto */
+  }
+  
+  ion-toolbar {
+    --background: #d9e2ec; /* Color de fondo suave para la barra de herramientas */
+  }
+  
+  ion-title {
+    color: #444; /* Color del título */
+  }
+  
+  ion-content {
+    --background: #ffffff; /* Color de fondo del contenido */
+  }
+  
+  ion-list {
+    --background: #f9f9f9; /* Color de fondo suave para la lista */
+  }
+  
+  ion-item {
+    --background: #ffffff; /* Color de fondo de los elementos de la lista */
+    --border-color: #e0e0e0; /* Color del borde de los elementos de la lista */
+    --color: #333; /* Color del texto en los elementos de la lista */
+    margin-bottom: 10px;
+    border-radius: 8px; /* Bordes redondeados para los elementos de la lista */
+  }
+  
+  ion-input, ion-select {
+    --background: #ffffff; /* Color de fondo de los campos de entrada y selector */
+    --color: #333; /* Color del texto en los campos de entrada y selector */
+  }
+  
+  ion-button {
+    --background: #007bff; /* Color de fondo del botón */
+    --color: #ffffff; /* Color del texto del botón */
+    border-radius: 8px; /* Bordes redondeados para el botón */
+  }
+  

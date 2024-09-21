@@ -1,4 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import {} from '../services/foto.service'
+
 
 import { Tab1Page } from './tab1.page';
 
